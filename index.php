@@ -9,6 +9,9 @@
 <body>
 
 <h2>Semangat!</h2>
+<ul>
+    <li>Semangat!</li>
+</ul>
     
 </body>
 </html>
